@@ -1,0 +1,7 @@
+﻿  Variable Exercises.cpp
+e:\2017 bachelor projects\c++\variable and operators\variable and operators\variable exercises.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  e:\2017 bachelor projects\c++\variable and operators\variable and operators\variable exercises.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+e:\2017 bachelor projects\c++\variable and operators\variable and operators\variable exercises.cpp(12): error C2065: 'cout': undeclared identifier
+  Source.cpp
+e:\2017 bachelor projects\c++\variable and operators\variable and operators\source.cpp(5): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

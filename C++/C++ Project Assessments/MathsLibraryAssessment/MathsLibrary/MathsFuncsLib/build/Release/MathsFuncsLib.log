@@ -1,0 +1,38 @@
+﻿  Matrix2.cpp
+Source\Matrix2.cpp(76): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix2.cpp(77): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix2.cpp(78): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix2.cpp(79): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  Matrix3.cpp
+Source\Matrix3.cpp(257): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(258): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(260): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(261): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(267): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(269): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(273): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(275): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(281): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(282): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(284): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix3.cpp(285): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  Matrix4.cpp
+Source\Matrix4.cpp(307): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(308): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(310): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(311): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(317): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(319): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(323): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(325): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(331): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(332): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(334): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+Source\Matrix4.cpp(335): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  Vector2.cpp
+Source\Vector2.cpp(270): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  Vector3.cpp
+Source\Vector3.cpp(812): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  Vector4.cpp
+Source\Vector4.cpp(2143): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  MathsFuncsLib.vcxproj -> E:\2017 Bachelor Projects\C++\C++ Project Assessments\MathsLibraryAssessment\MathsLibrary\MathsFuncsLib\\lib\MathsFuncsLib.lib

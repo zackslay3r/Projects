@@ -1,0 +1,7 @@
+﻿  squareCheck.cpp
+e:\2017 bachelor projects\c++\tictactoe\tictactoe\squarecheck.cpp(1): fatal error C1083: Cannot open include file: 'Functions.h': No such file or directory
+  Main.cpp
+e:\2017 bachelor projects\c++\tictactoe\tictactoe\main.cpp(2): fatal error C1083: Cannot open include file: 'Board.h': No such file or directory
+  Game.cpp
+e:\2017 bachelor projects\c++\tictactoe\tictactoe\game.cpp(6): error C2600: 'Game::Game': cannot define a compiler-generated special member function (must be declared in the class first)
+  Generating Code...
