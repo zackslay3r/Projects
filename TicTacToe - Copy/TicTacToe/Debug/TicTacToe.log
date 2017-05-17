@@ -1,7 +1,49 @@
-﻿  squareCheck.cpp
-e:\2017 bachelor projects\c++\tictactoe\tictactoe\squarecheck.cpp(1): fatal error C1083: Cannot open include file: 'Functions.h': No such file or directory
+﻿  Game.cpp
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\game.cpp(6): error C2600: 'Game::Game': cannot define a compiler-generated special member function (must be declared in the class first)
+  squareCheck.cpp
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\squarecheck.cpp(1): fatal error C1083: Cannot open include file: 'Functions.h': No such file or directory
   Main.cpp
-e:\2017 bachelor projects\c++\tictactoe\tictactoe\main.cpp(2): fatal error C1083: Cannot open include file: 'Board.h': No such file or directory
-  Game.cpp
-e:\2017 bachelor projects\c++\tictactoe\tictactoe\game.cpp(6): error C2600: 'Game::Game': cannot define a compiler-generated special member function (must be declared in the class first)
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(42): error C2065: 'ROWS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(42): error C2065: 'COLUMMS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(42): error C2078: too many initializers
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(49): error C2065: 'rowSelected': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(52): error C2065: 'colummSelected': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(117): error C2065: 'ROWS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(120): error C2065: 'COLUMMS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(129): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(130): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(137): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(138): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(150): error C2065: 'COLUMMS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(153): error C2065: 'ROWS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(162): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(163): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(170): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(171): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(179): error C2065: 'COLUMMS': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(188): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(189): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(196): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(197): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(219): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(220): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(227): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(228): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(249): error C2065: 'winner': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(249): warning C4805: '!=': unsafe mix of type 'unknown-type' and type 'bool' in operation
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(251): error C2065: 'validTurn': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(252): error C2065: 'counter': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(254): error C2065: 'playerTurn': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(255): error C2065: 'currPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(255): error C2065: 'playerOne': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(259): error C2065: 'playerTurn': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(260): error C2065: 'currPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(260): error C2065: 'playerTwo': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(274): error C2065: 'playerTurn': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(275): error C2065: 'rowSelected': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(276): error C2065: 'colummSelected': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(277): error C3861: 'squareCheck': identifier not found
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(286): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(290): error C2065: 'winningPlayer': undeclared identifier
+e:\2017 bachelor projects\github\tictactoe - copy\tictactoe\main.cpp(294): error C2065: 'winningPlayer': undeclared identifier
   Generating Code...
